@@ -1,4 +1,4 @@
-# KnowledgeBase
+# Knowledge Base
 
 ## VARIABLE TYPE
 ## ARGUMENT VARIABLES
