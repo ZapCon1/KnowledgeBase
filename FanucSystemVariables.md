@@ -17,7 +17,7 @@
 | #3001                    | Millisecond timer                                |
 | #3002                    | Hour timer                                       |
 | #3003                    | Single block suppression                         |
-| [#3004](#gid=1622974261) | Override [FEED HOLD] control                     |
+| [#3004](FeedHold.md) | Override [FEED HOLD] control                     |
 | #3006                    | Programmable stop with message #3006=1 (STOP)    |
 | #3011                    | Year, month, day                                 |
 | #3012                    | Hour, minute, second                             |
