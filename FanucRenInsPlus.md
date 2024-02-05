@@ -2,8 +2,7 @@
 
 ## [Table of Contents](https://github.com/ZapCon1/KnowledgeBase.git)
 
-** Outer pipes  Cell padding 
-No sorting
+
 | ROUTINE: | SINGLE SURFACE      | WEB/POCKET          | BORE/BOSS           | INTERNAL CORNER     | EXTERNAL CORNER     | 5 POINT RECTANGLE | 4TH AXIS     | PCD BORE            | STOCK ALLOWANCE     | ANGLE SINGLE SURFACE (AD INPUT) | ANGLE SINGLE SURFACE (XYZ INPUT) | ANGLE WEB/POCKET    | 3 POINT BORE/BOSS   | FEATURE TO FEATURE     | XY ANGLE MEASURE |
 | -------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ----------------- | ------------ | ------------------- | ------------------- | ------------------------------- | -------------------------------- | ------------------- | ------------------- | ---------------------- | ---------------- |
 | VARIABLE | G65 P9811           | G65 P9812           | G65 P9814           | G65 P9815           | G65 P9816           | G65 P9817         | G65 P9818    | G65 P9819           | G65P9820            | G65 P9821                       |                                  | G65 P9822           | G65 P9823           | G65 P9834              | G65 P9843        |
