@@ -22,9 +22,5 @@ No sorting
 | #147     | DIRECTION INDICATOR |                     |                     |                     |                     |                   |              | HOLE NUMBER         |                     |                                 |                                  | DIRECTION INDICATOR |                     |                        |                  |
 | #148     | OUT OF TOLERANCE    |
 | #149     | PROBE ERROR FLAG    |
-📋 Copy
-Clear
-Buy Me a Coffee at ko-fi.com**
-
 
 ## [Table of Contents](https://github.com/ZapCon1/KnowledgeBase.git)
