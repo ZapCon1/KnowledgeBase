@@ -5,7 +5,7 @@
 | Group                 | Expression                           | Operation                | Notes          |
 | --------------------- | ------------------------------------ | ------------------------ | -------------- |
 | Conditional Branch    | IF[operation]GOTOn n=sequence number | #i EQ #j                 | equals         |
-|                       |                                      | #i NE #j                 | does not equal |
+|                       |<>                                    | #i NE #j                 | does not equal |
 |                       |                                      | #i GT #j                 | Greater than   |
 | Conditional Execution | IF[operation]THEN# #=macro statement | #i LT #j                 | Less than      |
 |                       | #i GE #j                             | Greater than or equal to |
