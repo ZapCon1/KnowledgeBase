@@ -1,7 +1,7 @@
 # Variable Type 
 
-## [Table of Contents]
+## [Table of Contents](https://github.com/ZapCon1/KnowledgeBase.git)
 
 add stuff here 
 
-## [Table of Contents]
+## [Table of Contents](https://github.com/ZapCon1/KnowledgeBase.git)
