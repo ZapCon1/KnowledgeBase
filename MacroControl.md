@@ -11,7 +11,7 @@
 | #i GE #j               | Greater than or equal to             |
 | #i LE #j               | Less than or equal to                |
 | Iteration              | While[operation]DOm m=1 2 3          |           |           |
-| <<Iteration Contents>> |                                      |           |
-| ENDm m=1 2 3           |                                      |
+|                        | <<Iteration Contents>>               |           |
+|                        | ENDm m=1 2 3                         |
 
 ## [Table of Contents](https://github.com/ZapCon1/KnowledgeBase.git)
