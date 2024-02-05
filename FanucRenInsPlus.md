@@ -2,7 +2,7 @@
 
 ## [Table of Contents](https://github.com/ZapCon1/KnowledgeBase.git)
 
- Outer pipes  Cell padding 
+** Outer pipes  Cell padding 
 No sorting
 | ROUTINE: | SINGLE SURFACE      | WEB/POCKET          | BORE/BOSS           | INTERNAL CORNER     | EXTERNAL CORNER     | 5 POINT RECTANGLE | 4TH AXIS     | PCD BORE            | STOCK ALLOWANCE     | ANGLE SINGLE SURFACE (AD INPUT) | ANGLE SINGLE SURFACE (XYZ INPUT) | ANGLE WEB/POCKET    | 3 POINT BORE/BOSS   | FEATURE TO FEATURE     | XY ANGLE MEASURE |
 | -------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ----------------- | ------------ | ------------------- | ------------------- | ------------------------------- | -------------------------------- | ------------------- | ------------------- | ---------------------- | ---------------- |
@@ -24,5 +24,7 @@ No sorting
 | #149     | PROBE ERROR FLAG    |
 📋 Copy
 Clear
-Buy Me a Coffee at ko-fi.com
+Buy Me a Coffee at ko-fi.com**
+
+
 ## [Table of Contents](https://github.com/ZapCon1/KnowledgeBase.git)
