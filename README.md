@@ -1,6 +1,6 @@
 # Knowledge Base
 
-## [VARIABLE TYPE](Test.md)
+## [VARIABLE TYPE](VariableType.md)
 ## ARGUMENT VARIABLES
 ## HAAS SYSTEM VARIABLES
 ## FANUC SYSTEM VARIABLES
