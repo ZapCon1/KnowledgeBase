@@ -11,6 +11,7 @@ but the key concept is that you can pass letters past `A`, `B`, and `C` and each
 For Argument 2, you can only pass six letters as arguments `A`, `B`, `C`, and `I`, `J`, `K`.  
 But critically, you can pass and abritrary number of of `I`, `J`, `K` arguments into the macro. 
 The macro can be coded to account for however many get passed in, which gives a lot of flexibility. 
+This is effectively a way you can pass array data into a macro as an argument. 
 
 ## Argument 1 vs Argument 2
 
