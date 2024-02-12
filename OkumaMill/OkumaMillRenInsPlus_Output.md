@@ -3,7 +3,7 @@
 ## [Table of Contents](https://github.com/ZapCon1/KnowledgeBase.git)
 
 
-With VS output of variables
+## With VS output of variables
 
 | ROUTINE: | SINGLE SURFACE      | WEB/POCKET          | BORE/BOSS           | INTERNAL CORNER     | EXTERNAL CORNER     | 5 POINT RECTANGLE | 4TH AXIS     | PCD BORE            | STOCK ALLOWANCE     | ANGLE SINGLE SURFACE (AD INPUT) | ANGLE SINGLE SURFACE (XYZ INPUT) | ANGLE WEB/POCKET    | 3 POINT BORE/BOSS   | FEATURE TO FEATURE     | XY ANGLE MEASURE |
 | -------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ----------------- | ------------ | ------------------- | ------------------- | ------------------------------- | -------------------------------- | ------------------- | ------------------- | ---------------------- | ---------------- |
@@ -23,8 +23,7 @@ With VS output of variables
 | VS87     | DIRECTION INDICATOR |                     |                     |                     |                     |                   |              | HOLE NUMBER         |                     |                                 |                                  | DIRECTION INDICATOR |                     |                        |                  |
 | VS88     | OUT OF TOLERANCE    |
 | VS89     | PROBE ERROR FLAG    |
-
-With VC output of variables (and a base number of 50)
+## With VC output of variables (and a base number of 50)
 | ROUTINE: | SINGLE SURFACE      | WEB/POCKET          | BORE/BOSS           | INTERNAL CORNER     | EXTERNAL CORNER     | 5 POINT RECTANGLE | 4TH AXIS     | PCD BORE            | STOCK ALLOWANCE     | ANGLE SINGLE SURFACE (AD INPUT) | ANGLE SINGLE SURFACE (XYZ INPUT) | ANGLE WEB/POCKET    | 3 POINT BORE/BOSS   | FEATURE TO FEATURE     | XY ANGLE MEASURE |
 | -------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ----------------- | ------------ | ------------------- | ------------------- | ------------------------------- | -------------------------------- | ------------------- | ------------------- | ---------------------- | ---------------- |
 | VARIABLE | CALL O9811          | CALL O9812          | CALL O9814          | CALL O9815          | CALL O9816          | CALL O9817        | CALL O9818   | CALL O9819          | CALL O9820          | CALL O9821                      |                                  | CALL O9822          | CALL O9823          | CALL O9834             | CALL O9843       |

@@ -2,7 +2,7 @@
 
 ## [Table of Contents](https://github.com/ZapCon1/KnowledgeBase.git)
 
-With VS usage of variables
+## With VS usage of variables
 
 | VARIABLE | PURPOSE                          | 
 | -------- | -------------------------------- |
@@ -25,7 +25,7 @@ With VS usage of variables
 |VSTOD[38] | 330° stylus ball radius          |
 |VSTOD[39] | Z calibration ball radius        |
 
-With VC variable usage and a base number of 21:
+## With VC variable usage and a base number of 21:
 | VARIABLE | PURPOSE                          | 
 | -------- | -------------------------------- |
 |VC21      | X-axis stylus ball radius (XRAD) |
