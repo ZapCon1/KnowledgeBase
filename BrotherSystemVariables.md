@@ -57,6 +57,8 @@ The extended WCS start at #7000 - #7006 and increment by 20 for each new WCS val
 |------------------|---------------|
 | G54.1P1          | #7001 - #7006 |
 | G54.1P2          | #7021 - #7026 |
+| ...              | ...           |
+| G54.1P48         | #7941 - #7946 |
 
 
 Note: Most Brother macros expect a negative value when passing in an extended WCS offset number. 
